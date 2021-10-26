@@ -6,18 +6,18 @@ I'm utilizing h1, h2, h3, an ordered list, and links for the first lab.
 
 ### Table of Contents
 
-1. [Reading Assignemnt 1]
-2. [Reading Assignemnt 2]
-3. [Reading Assignment 3]
-4. [Reading Assignment 4]
-5. [Reading Assignment 5]
-6. [Reading Assignment 6]
-7. [Reading Assignment 7]
-8. [Reading Assignemnt 8]
-9. [Reading Assignemnt 9]
-10. [Reading Assignment 10]
-11. [Reading Assignmet 11]
-12. [Reading Assignment 12]
-13. [Reading Assignment 13]
-14. [Reading Assignment 14]
-15. [Reading Assignment 15]
+1. [Reading Assignemnt 1](dummy-reading-assignment.md)
+2. [Reading Assignemnt 2](dummy-reading-assignment.md)
+3. [Reading Assignment 3](dummy-reading-assignment.md)
+4. [Reading Assignment 4](dummy-reading-assignment.md)
+5. [Reading Assignment 5](dummy-reading-assignment.md)
+6. [Reading Assignment 6](dummy-reading-assignment.md)
+7. [Reading Assignment 7](dummy-reading-assignment.md)
+8. [Reading Assignemnt 8](dummy-reading-assignment.md)
+9. [Reading Assignemnt 9](dummy-reading-assignment.md)
+10. [Reading Assignment 10](dummy-reading-assignment.md)
+11. [Reading Assignmet 11](dummy-reading-assignment.md)
+12. [Reading Assignment 12](dummy-reading-assignment.md)
+13. [Reading Assignment 13](dummy-reading-assignment.md)
+14. [Reading Assignment 14](dummy-reading-assignment.md)
+15. [Reading Assignment 15](dummy-reading-assignment.md)
