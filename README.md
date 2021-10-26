@@ -1,6 +1,11 @@
 # Code 201 Reading Notes
 
-# Table of Contents
+## Reading Notes for Code Fellows 201
+
+I'm utilizing h1, h2, h3, an ordered list, and links for the first lab.
+
+### Table of Contents
+
 1. [Reading Assignemnt 1]
 2. [Reading Assignemnt 2]
 3. [Reading Assignment 3]
@@ -16,4 +21,3 @@
 13. [Reading Assignment 13]
 14. [Reading Assignment 14]
 15. [Reading Assignment 15]
-16. [Reading Assignement 16]
