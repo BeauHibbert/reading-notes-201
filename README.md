@@ -6,9 +6,9 @@ I'm utilizing h1, h2, h3, an ordered list, and links for the first lab.
 
 ### Table of Contents
 
-1. [Reading Assignemnt 1](dummy-reading-assignment.md)
-2. [Reading Assignemnt 2](dummy-reading-assignment.md)
-3. [Reading Assignment 3](dummy-reading-assignment.md)
+1. [Reading Assignemnt 1](read-01.md)
+2. [Reading Assignemnt 2](read-02.md)
+3. [Reading Assignment 3](read-03.md)
 4. [Reading Assignment 4](dummy-reading-assignment.md)
 5. [Reading Assignment 5](dummy-reading-assignment.md)
 6. [Reading Assignment 6](dummy-reading-assignment.md)
