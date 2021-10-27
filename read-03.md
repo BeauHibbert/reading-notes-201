@@ -21,7 +21,7 @@ Example:
 <ul>Banana</ul>
 <ul>Watermelon</ul>
 
-A definition list is a list where the list items are usually words or definitions. It is different from the other lists as it doesn't use <ol> to close the tags, but instead uses <dl>.
+A definition list is a list where the list items are usually words or definitions.
 
 Example:
 <dl>
