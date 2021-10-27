@@ -13,7 +13,7 @@ Example:
 <li>Test three</li>
 </ol>
 
-An unordered list is just like it sounds, not numbered, simply bullet points.
+An unordered list is just like it sounds, not numbered.
 
 Example:
 <ol>
