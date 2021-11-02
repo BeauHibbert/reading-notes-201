@@ -22,7 +22,7 @@ The attributes rowspan and colspan can help you make the cells span more than on
 Large tables can be split up into <thead>, <tbody>, <tfoot>
 
 
-#Functions, methods and objects
+# Functions, methods and objects
 Notes from Chapter 3 notes from Jon Duckett’s Javascript book
 
 Functions allow you to group a set of related statements together that represent a single task
