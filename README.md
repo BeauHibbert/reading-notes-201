@@ -12,7 +12,7 @@ I'm utilizing h1, h2, h3, an ordered list, and links for the first lab.
 4. [Reading Assignment 4](read-04.md)
 5. [Reading Assignment 5](read-05.md)
 6. [Reading Assignment 6](read-06.md)
-7. [Reading Assignment 7](dummy-reading-assignment.md)
+7. [Reading Assignment 7](read-07.md)
 8. [Reading Assignemnt 8](dummy-reading-assignment.md)
 9. [Reading Assignemnt 9](dummy-reading-assignment.md)
 10. [Reading Assignment 10](dummy-reading-assignment.md)
